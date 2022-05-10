@@ -583,10 +583,10 @@ cli-spinners@^2.5.0:
   resolved "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-2.6.1.tgz#adc954ebe281c37a6319bfa401e6dd2488ffb70d"
   integrity sha512-x/5fWmGMnbKQAaNwN+UZlV79qBLM9JFnJuJ03gIi5whrob0xV0ofNVHy9DhwGdsMJQc2OKv0oGmLzvaqvAVv+g==
 
-client-zip@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/client-zip/-/client-zip-2.2.1.tgz#8db715e9f4f61307f70e11a87a46aabb7e0f09da"
-  integrity sha512-ZtLCKCUG3Xpscmz2nu89sGexZlfzr4aM27WYQPPpIgyhZ2jYiuhA8VNNMGDAlIrjAiiinetma8H+KyIN2lIXiw==
+client-zip@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/client-zip/-/client-zip-2.2.2.tgz#58dcc66f2534954a50b506d2bd864b51ba98370d"
+  integrity sha512-Jh1Sz/iBTfYuLQv6yKzrrXofJy17Q7YRhBfh5HH/6i4Z+ACjTfmRJllWQKoe4eFWwXeUoOjEathqXfuGGX4jhg==
 
 clone@^1.0.2:
   version "1.0.4"
@@ -894,10 +894,10 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-dotenv@16.0.0:
-  version "16.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.0.tgz#c619001253be89ebb638d027b609c75c26e47411"
-  integrity sha512-qD9WU0MPM4SWLPJy/r2Be+2WgQj8plChsyrCNQzW/0WjvcJQiKQJ9mH3ZgB3fxbUUxgc/11ZJ0Fi5KiimWGz2Q==
+dotenv@16.0.1:
+  version "16.0.1"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.1.tgz#8f8f9d94876c35dac989876a5d3a82a267fdce1d"
+  integrity sha512-1K6hR6wtk2FviQ4kEiSjFiH5rpzEVi8WW0x96aztHVMhEspNpc4DVOUTEHtEva5VThQ8IaBX1Pe4gSzpVVUsKQ==
 
 dotenv@^10.0.0:
   version "10.0.0"
